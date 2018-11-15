@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">VALKIRIA</string>
+    <string name="name">Damian Alfonso Villaseñor Cisneros</string>
+
+    <string name="T">¿De qué tamaño es el cáncer?  ¿Ha invadido las áreas cercanas?</string>
+    <string name="TX">No se puede evaluar el tumor primario</string>
+    <string name="T0">No hay evidencia de tumor primario</string>
+
+    <string name="T4A">Con extensión directa a la pared del tórax (pared del trax comprende costillas, músculos intercostales y serrato mayor, no comprende el pectoral mayor y su aponeuros</string>
+    <string name="T4B">Con compromiso de piel (edema, ulceracino nódulos satélites de la piel confinados a la mama)</string>
+    <string name="T4C">Los Dos Anteriores</string>
+    <string name="T4D">Carcinoma inflamatorio</string>
+
+    <string name="cm">Centímetros</string>
+    <string name="is">Carcinoma in situ</string>
+    <string name="DCIS">DCIS</string>
+    <string name="LCIS">LCIS</string>
+    <string name="paguet">Paguet</string>
+
+    <string name="CORP">¿Se ha propagado el cáncer a los ganglios linfáticos cercanos? De ser así, ¿a cuántos ganglios linfáticos?</string>
+    <string name="NX">Los ganglios linfáticos adyacentes no se pueden evaluar</string>
+    <string name="N0">Sin metástasis histolgicas en los ganglios linfáticos adyacentes</string>
+    <string name="N">Sin metástasis histolgicas en los ganglios linfáticos adyacentes</string>
+    <string name="NN">Número de Afectados</string>
+
+
+    <string name="N0il">Sin metástasis histolgicas en linfonodos regionales con inmunohistoquímica negativo</string>
+    <string name="N0ip">Sin metástasis histolgicas en linfonodos regionales con inmunohistoquímica positivo</string>
+    <string name="N0ml">Sin metástasis histolgicas en linfonodos regionales con hallazgos moleculares negativos. (RT-PCR)</string>
+    <string name="N0mp">Sin metátasis histolgicas en linfonodos regionales con hallazgos moleculares positivos. (RT-PCR)</string>
+
+    <string name="N1i">Micrometástasis (mayor que 0.2 mm, pero no mayor que 2.0 mm</string>
+    <string name="N1a">Metástasis en 1 a 3 linfonodos  axilar</string>
+    <string name="N1b">Metástasis en ndulos de mamaria interna con enfermedad microscpica detectada por linfonodos centinela o diseccin linfática, sin evidencia clínica</string>
+    <string name="N1c">Metástasis en 1 a 3 linfonodos axilares y en linfonodos de mamaria interna con enfermedad microscpica detectada por linfonodo centinela o diseccin linfática, sin evidencia clánica.</string>
+
+    <string name="N2a">Metástasis en 4 a 9 linfonodos axilares, mayor de 2 mm</string>
+    <string name="N2b">Metástasis en linfonodos mamarios internos clínicamente positivos, en ausencia de metástasis en linfonodos axilares</string>
+
+    <string name="N3a">Metástasis en 10 o más linfonodos axilares (mayor a 2 mm.) o metástasis en linfonodos infraclaviculares</string>
+    <string name="N3b">Metástasis en linfonodos mamarios internos clínicamente positivos, en presencia de uno o más linfonodos axilares positivos o más de tres linfonodos axilares con metástasis microscpicas en linfonodos mamarios internos clínicamente no evidente</string>
+    <string name="N3c">Metástasis en linfonodos supraclaviculares ipsilaterales</string>
+
+
+    <string name="M">¿Se ha propagado el cáncer a órganos distantes tal como a los pulmones o al hígado?</string>
+    <string name="MX">No se puede evaluar la propagación a distancia</string>
+    <string name="M0">No se encuentra propagación a distancia en las radiografías o por examen médico</string>
+    <string name="M0i">Se encuentran pequeños números de células cancerosas en la sangre o la médula ósea (encontrados sólo por pruebas especiales) o se encuentran áreas diminutas de propagación del cáncer (que no miden más de 0.2 mm) en ganglios linfáticos alejados de la axila, la clavícula o las áreas mamarias internas</string>
+    <string name="M1">El cáncer se ha propagado a órganos distantes </string>
+
+
+
+    <string name="trat">Tratamientos Recomendados</string>
+
+
+
+
+
+
+
+
+
+</resources>
